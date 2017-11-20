@@ -1,0 +1,23 @@
+﻿Build started 10-Jul-17 7:43:39 PM.
+     1>Project "D:\Google Drive Sync\! SSD\Other Prog. Lang\Computer Graphics\Computer Graphics - OpelGL Project\test1\test1\test1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\google drive sync\! ssd\other prog. lang\computer graphics\computer graphics - opelgl project\test1\test1\source.cpp(686): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(233) : see declaration of 'freopen'
+     1>d:\google drive sync\! ssd\other prog. lang\computer graphics\computer graphics - opelgl project\test1\test1\source.cpp(689): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\google drive sync\! ssd\other prog. lang\computer graphics\computer graphics - opelgl project\test1\test1\source.cpp(711): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(233) : see declaration of 'freopen'
+     1>d:\google drive sync\! ssd\other prog. lang\computer graphics\computer graphics - opelgl project\test1\test1\source.cpp(897): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\google drive sync\! ssd\other prog. lang\computer graphics\computer graphics - opelgl project\test1\test1\source.cpp(907): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\google drive sync\! ssd\other prog. lang\computer graphics\computer graphics - opelgl project\test1\test1\source.cpp(993): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(233) : see declaration of 'freopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Google Drive Sync\! SSD\Other Prog. Lang\Computer Graphics\Computer Graphics - OpelGL Project\test1\Debug\test1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Google Drive Sync\! SSD\Other Prog. Lang\Computer Graphics\Computer Graphics - OpelGL Project\test1\Debug\test1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Google Drive Sync\! SSD\Other Prog. Lang\Computer Graphics\Computer Graphics - OpelGL Project\test1\Debug\test1.lib" /MACHINE:X86 Debug\imageloader.obj
+         Debug\Source.obj
+         test1.vcxproj -> D:\Google Drive Sync\! SSD\Other Prog. Lang\Computer Graphics\Computer Graphics - OpelGL Project\test1\Debug\test1.exe
+     1>Done Building Project "D:\Google Drive Sync\! SSD\Other Prog. Lang\Computer Graphics\Computer Graphics - OpelGL Project\test1\test1\test1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.84

@@ -1,0 +1,2 @@
+When Screen is resized, mouse click does not work
+cuz co ordinate changes
